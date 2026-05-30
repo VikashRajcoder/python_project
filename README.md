@@ -128,7 +128,7 @@ python smart_campus_project.py
 
 > Insert Performance Analysis Graph Here
 
-![Performance Graph](images/performance_graph.png)
+![Performance Graph](images/graph.png)
 
 ---
 
