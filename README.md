@@ -117,21 +117,10 @@ python smart_campus_project.py
 
 ### Main Menu
 
-> Insert Screenshot Here
 
 ![Main Menu Screenshot](images/main_menu.png)
 
-### Student Registration
 
-> Insert Screenshot Here
-
-![Student Registration Screenshot](images/student_registration.png)
-
-### Course Enrollment
-
-> Insert Screenshot Here
-
-![Course Enrollment Screenshot](images/course_enrollment.png)
 
 ---
 
